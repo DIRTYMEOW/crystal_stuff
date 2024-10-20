@@ -1,9 +1,8 @@
 This is a brief and perhaps oversimplified estimation of vdw interaction contributed from neighboring atoms to a "Ghost atom".
 The position of ghost atom, and xyz file has to be prepared first.
 Define a coordination of ghost atom, modify the .py file.
-# .xyz file name is here~~~~~~~~~~~~~~~ for other file, u need to re-write coding here.
+.xyz file name is here~~~~~~~~~~~~~~~ for other file, u need to re-write coding here.
 The 12-6 equation, u can tune whatever value u want, or even vdw radii.
-
 Caution:
 This calculation overlooks the concept of "molecules" "orbital" "dipole" "charge" "bonding", just treat everthing as single atom, which acts simply as a lego.
 
